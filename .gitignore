@@ -1,0 +1,30 @@
+# Environments
+.env
+.venv
+env
+venv
+ENV
+
+env.bak/
+venv.bak/
+.github/.venv
+python-embed/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Other
+*.log
